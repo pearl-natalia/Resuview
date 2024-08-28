@@ -3,7 +3,7 @@
 Résuview is an innovative augmented reality (AR) application, designed to enhance networking events. The hand-crafted AR glasses seamlessly display resumes next to individuals, creating a dynamic and interactive experience. 
 
 <p align="center">
-<img width="75%" alt="Screenshot 2024-01-21 at 9 03 17 PM" src="https://github.com/pearl-natalia/resuview/assets/145855287/b595bbf9-3af1-436f-8ccc-10027308fa25">
+<img width="100%" alt="Screenshot 2024-01-21 at 9 03 17 PM" src="https://github.com/pearl-natalia/resuview/assets/145855287/b595bbf9-3af1-436f-8ccc-10027308fa25">
 </p>
 
 ## Hardware
@@ -19,7 +19,7 @@ Résuview is an innovative augmented reality (AR) application, designed to enhan
 **5. Screens:** Incorporates high-refresh-rate screens from BOE for clear and vibrant resume display.
 
 <p align="center">
-<img width="75%" alt="Screenshot 2024-01-21 at 9 03 17 PM" src="https://github.com/pearl-natalia/resuview/assets/145855287/d97ff807-41ff-42ac-abfa-0775d82a7e45">
+<img width="100%" alt="Screenshot 2024-01-21 at 9 03 17 PM" src="https://github.com/pearl-natalia/resuview/assets/145855287/d97ff807-41ff-42ac-abfa-0775d82a7e45">
 </p>
 
 ## Software
@@ -38,5 +38,5 @@ Résuview is an innovative augmented reality (AR) application, designed to enhan
 **7. AR Glasses:** Allows users to view resumes next to corresponding individuals, with hand tracking to resize/move the resume. 
 
 <p align="center">
-<img width="75%" alt="Screenshot 2024-01-21 at 9 07 52 PM" src="https://github.com/pearl-natalia/resuview/assets/145855287/64b1288f-ab2b-4108-9b5a-12f1f3ca9f7a">
+<img width="100%" alt="Screenshot 2024-01-21 at 9 07 52 PM" src="https://github.com/pearl-natalia/resuview/assets/145855287/64b1288f-ab2b-4108-9b5a-12f1f3ca9f7a">
 </p>
